@@ -1,0 +1,27 @@
+{
+  "name": "سامانه مدیریت یکپارچه",
+  "short_name": "مدیریت یکپارچه",
+  "description": "سامانه یکپارچه مدیریت منابع انسانی، حضور و غیاب، حقوق و دستمزد، انبار، ابزار، اسناد و گزارش‌های سازمانی",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "fa",
+  "dir": "rtl",
+  "background_color": "#0e1420",
+  "theme_color": "#1e3a5f",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
